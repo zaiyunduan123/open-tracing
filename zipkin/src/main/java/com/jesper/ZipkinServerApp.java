@@ -1,4 +1,4 @@
-package com.jesper.sleuth;
+package com.jesper;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

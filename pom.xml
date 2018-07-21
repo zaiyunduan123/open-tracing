@@ -4,14 +4,15 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.jesper</groupId>
-	<artifactId>sleuth-starter</artifactId>
+	<artifactId>jesper-opentracing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>zipkin</module>
+        <module>opentracing</module>
     </modules>
 	<packaging>pom</packaging>
 
-	<name>sleuth-starter</name>
+	<name>jesper-opentracing</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
